@@ -1,0 +1,24 @@
+.square {
+  background-color: lightgrey;
+  border-color: white;
+  border-width:10px;
+  color:black;
+  display:flex;
+  padding: 10 px;
+  
+  
+
+}
+
+.row {
+  display:flex;
+  flex-direction: row;
+  justify-content:space-evenly
+  
+}
+
+#container {
+  display:flex;
+  flex-direction: column;
+}
+
